@@ -2,5 +2,5 @@
 
 ##Criação de uma Pokedex 
 
-*Criado Por: Paulo
-*Colaborador: Felipe
+*Criado Por: Felipe
+*Colaborador: Paulo
